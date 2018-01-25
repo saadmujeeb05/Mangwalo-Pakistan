@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "28884583036",
+    "firebase_url": "https://mangwalo-70e56.firebaseio.com",
+    "project_id": "mangwalo-70e56",
+    "storage_bucket": "mangwalo-70e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28884583036:android:5d8bc4e4db047dd7",
+        "android_client_info": {
+          "package_name": "com.aliyan.mangwalopakistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28884583036-hvkqkro7b2i8lkkq46pleogfm0m6sgrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBJS7CgsylODpkHit8GkpHv2v2URit6kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
